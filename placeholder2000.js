@@ -3,7 +3,7 @@ Placeholder 2000
 https://github.com/judas-christ/placeholder2000
 */
 (function (window, document, $) {
-    var DATA_KEY = 'placeholder2000';
+    var DATA_KEY = 'ph2k';
     var NATIVE_SUPPORT = 'placeholder' in document.createElement('input');
     function createPlaceholder(input) {
         var placeholder = input.data(DATA_KEY);
