@@ -11,7 +11,7 @@ https://github.com/judas-christ/placeholder2000
             placeholder = new Placeholder(input);
             input.data(DATA_KEY, placeholder);
         }
-        return ph;
+        return placeholder;
     }
     function Placeholder(input) {
         this.label = $('<label />').attr({'for':input.attr('id'),'class':'placeholder'}).text(input.attr('placeholder'));
