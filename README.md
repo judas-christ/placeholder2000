@@ -25,8 +25,9 @@ With options:
 	
 ### Options
 
-*cssClass*	-	CSS class of placeholder
-*idPrefix*	-	prefix for generated IDs when missing on the inputs
+**cssClass**	-	CSS class of placeholder
+
+**idPrefix**	-	prefix for generated IDs when missing on the inputs
 
 ## License
 
